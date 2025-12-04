@@ -1,0 +1,14 @@
+C:\Users\HİLAL\Source\Repos\kuantumKaos\kuantumKaos\obj\Debug\net9.0\kuantumKaos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HİLAL\Source\Repos\kuantumKaos\kuantumKaos\obj\Debug\net9.0\kuantumKaos.AssemblyInfoInputs.cache
+C:\Users\HİLAL\Source\Repos\kuantumKaos\kuantumKaos\obj\Debug\net9.0\kuantumKaos.AssemblyInfo.cs
+C:\Users\HİLAL\Source\Repos\kuantumKaos\kuantumKaos\obj\Debug\net9.0\kuantumKaos.csproj.CoreCompileInputs.cache
+C:\Users\HİLAL\Source\Repos\kuantumKaos\kuantumKaos\bin\Debug\net9.0\kuantumKaos.exe
+C:\Users\HİLAL\Source\Repos\kuantumKaos\kuantumKaos\bin\Debug\net9.0\kuantumKaos.deps.json
+C:\Users\HİLAL\Source\Repos\kuantumKaos\kuantumKaos\bin\Debug\net9.0\kuantumKaos.runtimeconfig.json
+C:\Users\HİLAL\Source\Repos\kuantumKaos\kuantumKaos\bin\Debug\net9.0\kuantumKaos.dll
+C:\Users\HİLAL\Source\Repos\kuantumKaos\kuantumKaos\bin\Debug\net9.0\kuantumKaos.pdb
+C:\Users\HİLAL\Source\Repos\kuantumKaos\kuantumKaos\obj\Debug\net9.0\kuantumKaos.dll
+C:\Users\HİLAL\Source\Repos\kuantumKaos\kuantumKaos\obj\Debug\net9.0\refint\kuantumKaos.dll
+C:\Users\HİLAL\Source\Repos\kuantumKaos\kuantumKaos\obj\Debug\net9.0\kuantumKaos.pdb
+C:\Users\HİLAL\Source\Repos\kuantumKaos\kuantumKaos\obj\Debug\net9.0\kuantumKaos.genruntimeconfig.cache
+C:\Users\HİLAL\Source\Repos\kuantumKaos\kuantumKaos\obj\Debug\net9.0\ref\kuantumKaos.dll
